@@ -84,7 +84,7 @@ function App() {
       {/* <a href="https://github.com/yaroAmaro219?tab=repositories" target="_blank" rel="noopener noreferrer" class="top-left" children="Github" /> */}
       <a href="https://soundcloud.com/artemie-amari/tracks" target="_blank" rel="noopener noreferrer" class="top-left" children="Soundcloud" />
       <a href="https://www.linkedin.com/in/artemie-amari-337b78117/" target="_blank" rel="noopener noreferrer" class="top-right" children="LinkedIn" />
-      <a href="http://www.artemieamari.com/work" target="_blank" rel="noopener noreferrer" class="bottom-left" children="Portfolio" />
+      <a href="http://www.artemieamari.com/#portfolio" target="_blank" rel="noopener noreferrer" class="bottom-left" children="Portfolio" />
       <a href="https://www.instagram.com/tina.henschel/" target="_blank" rel="noopener noreferrer" class="bottom-right" children="Illustrations @ Tina Henschel" />
       <span class="header">
         Artemie Amari
